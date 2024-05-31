@@ -29,7 +29,8 @@ let msg= document.querySelector("#p");
               }
  }
  const drawgame=()=>{
-       console.log("Game is draw play again");
+       msg.innerText = "Game was Draw. Play again.";
+  msg.style.backgroundColor = "#081b31";
  }
  const pgame= (uschoice) => {
 
