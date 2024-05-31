@@ -67,9 +67,9 @@ let msg= document.querySelector("#p");
             uwin=true;
         }
     }
-
+showwin(uschoice,cchoice,uwin);
     }
-    showwin(uschoice,cchoice,uwin);
+    
 
  }
 
