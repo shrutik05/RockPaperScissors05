@@ -71,7 +71,7 @@ showwin(uschoice,cchoice,uwin);
     }
     
 
- }
+ };
 
 
 
