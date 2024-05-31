@@ -36,7 +36,7 @@ let msg= document.querySelector("#p");
        const cchoice= gencchoice();
        console.log("Computer Choice is ",cchoice); 
        let uwin= true;
-      if(cchoice === uschoice){
+      if(cchoice == uschoice){
         drawgame();
       }
     
